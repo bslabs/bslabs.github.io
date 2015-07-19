@@ -4,6 +4,7 @@ title: "Replacing a SCSI enclosure power supply"
 description: ""
 category: 
 tags: [repair,scsi,classicmac]
+fullview: true
 ---
 {% include JB/setup %}
 
