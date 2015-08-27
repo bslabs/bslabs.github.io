@@ -24,7 +24,7 @@ However if you want the gory details, read on! Converting a Carbon project from 
 
 <img src="/assets/posts/porting-anypia-to-xcodeintel/steve.png" alt="Steve Jobs at WWDC 2005" style="width: 500px;"/>
 
-1. Compile the existing project and import into a Git repo
+1. [Compile the existing project and import into a Git repo](/2015/07/26/porting-ssa-detailed-calculator-to-xcodeintel-part-1)
 2. Using CodeWarrior, build a Mach-O binary
 3. Import project into Xcode and start fixing errors
 4. Use open-powerplant and fix remaining errors
