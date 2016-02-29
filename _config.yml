@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 gems: [jekyll-paginate]
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 excerpt_separator: <!--more-->
