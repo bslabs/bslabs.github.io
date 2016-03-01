@@ -55,6 +55,10 @@ Even with the currently lousy hardware support (see below), the Libretto running
 
 *Which one is a "real computer"?*
 
+<img src="/assets/posts/openstep-on-the-libretto-100ct/reddit.jpg" alt="Hi /r/retrobattlestations" style="width: 800px;"/>
+
+*Hi reddit!*
+
 ### Storage
 The Libretto's BIOS has a built-in hibernate function which will dump the contents of RAM to disk and power the machine off in response to closing the lid or pushing the power button, all without OS support. This is cool, but obviously requires that some disk space be left unpartitioned. The Libretto BIOS lies to the operating system and reports that the disk is smaller than it actually is, to reserve this space. This works fine if the disk is partitioned on the Libretto, but when partitioning on another machine, this space needs to be manually left unpartitioned.
 The [Toshiba Linux Utilities](http://www.buzzard.me.uk/toshiba/hibernate.html) site describes this in more detail, but in short: for disks < 8.4GB, the hibernation space is at the end of the disk. For disks > 8.4GB, it starts at the 8.4GB mark.
