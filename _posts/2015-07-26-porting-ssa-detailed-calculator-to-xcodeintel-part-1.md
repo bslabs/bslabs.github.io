@@ -8,9 +8,9 @@ fullview: true
 ---
 {% include JB/setup %}
 
-*For the first post in this series, see [Porting SSA Detailed Calculator to Xcode/Intel: Intro](/2015/07/18/porting-anypia-to-xcodeintel/)*
+*For the first post in this series, see [Porting SSA Detailed Calculator to Xcode/Intel: Intro](/2015/07/18/porting-anypia-to-xcodeintel)*
 
-####Part 1: Compile the existing project and import into a Git repo
+#### Part 1: Compile the existing project and import into a Git repo
 
 As always with an existing software project, the first step is to get the code to compile. I used my [17" PowerBook G4](http://lowendmac.com/2004/17-powerbook-g4-1-5-ghz-mid-2004/), running OS X 10.4 (since it's the newest OS X version supported by CodeWarrior 9).
 
