@@ -2,7 +2,7 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-sitemap]
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 paginate: 10 # pagination based on number of posts
