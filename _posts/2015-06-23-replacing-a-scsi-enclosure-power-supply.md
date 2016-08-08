@@ -6,7 +6,6 @@ category:
 tags: [repair,scsi,classicmac]
 fullview: true
 ---
-{% include JB/setup %}
 
 <img src="/assets/posts/replacing-a-scsi-enclosure-power-supply/front.jpg" alt="Front view of enclosure" style="width: 300px;"/>
 <img src="/assets/posts/replacing-a-scsi-enclosure-power-supply/rear.jpg" alt="Rear view of enclosure" style="width: 300px;"/>

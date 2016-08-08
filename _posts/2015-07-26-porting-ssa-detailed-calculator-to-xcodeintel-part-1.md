@@ -6,7 +6,6 @@ category:
 tags: [anypia,carbon,codewarrior,mac,osx]
 fullview: true
 ---
-{% include JB/setup %}
 
 *For the first post in this series, see [Porting SSA Detailed Calculator to Xcode/Intel: Intro](/2015/07/18/porting-anypia-to-xcodeintel)*
 

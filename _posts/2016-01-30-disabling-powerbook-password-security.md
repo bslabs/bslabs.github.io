@@ -6,7 +6,6 @@ category:
 tags: [mac,classicmac]
 fullview: true
 ---
-{% include JB/setup %}
 
 It's a common problem: you boot up an old PowerBook, only to find that Password Security has been enabled on the hard drive!
 

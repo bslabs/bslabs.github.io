@@ -6,7 +6,6 @@ category:
 tags: [libretto,openstep,next]
 fullview: true
 ---
-{% include JB/setup %}
 
 <img src="/assets/posts/openstep-on-the-libretto-100ct/login.jpg" alt="Libretto at OPENSTEP login screen" style="width: 800px;"/>
 

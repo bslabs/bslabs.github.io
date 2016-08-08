@@ -6,7 +6,6 @@ category:
 tags: [repair,pioneer,vsx1020]
 fullview: true
 ---
-{% include JB/setup %}
 
 *I originally posted this on the [AVSForum VSX-1020 thread](http://www.avsforum.com/forum/90-receivers-amps-processors/1245449-official-pioneer-vsx-1020-k-owner-s-thread-145.html#post23166665) on 4/4/2013*
 

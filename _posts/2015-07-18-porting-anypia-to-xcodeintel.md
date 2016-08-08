@@ -6,7 +6,6 @@ category:
 tags: [anypia,carbon,codewarrior,mac,osx]
 fullview: true
 ---
-{% include JB/setup %}
 
 <img src="/assets/posts/porting-anypia-to-xcodeintel/anypia.png" alt="Detailed Calculator running on Yosemite" style="width: 700px;"/>
 
