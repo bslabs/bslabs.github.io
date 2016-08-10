@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OPENSTEP 4.2 on the Libretto 100ct"
+author: Brendan Shanks
 description: "Installing/running OPENSTEP 4.2 on the Toshiba Libretto"
 category: 
 tags: [libretto,openstep,next]

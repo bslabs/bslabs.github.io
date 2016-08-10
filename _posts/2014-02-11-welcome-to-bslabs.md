@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome to bslabs"
+author: Brendan Shanks
 description: ""
 category: 
 tags: []

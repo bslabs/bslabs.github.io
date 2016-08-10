@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Porting SSA Detailed Calculator to Xcode/Intel: Part 1"
+author: Brendan Shanks
 description: "Porting the Social Security Administration's Detailed Calculator from CodeWarrior to Xcode and Intel: Part 1"
 category: 
 tags: [anypia,carbon,codewarrior,mac,osx]

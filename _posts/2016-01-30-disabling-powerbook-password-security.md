@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Disabling MacOS PowerBook Password Security, Illustrated"
+author: Brendan Shanks
 description: "Disabling MacOS PowerBook Password Security"
 category: 
 tags: [mac,classicmac]

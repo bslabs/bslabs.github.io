@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Replacing a SCSI enclosure power supply"
+author: Brendan Shanks
 description: ""
 category: 
 tags: [repair,scsi,classicmac]

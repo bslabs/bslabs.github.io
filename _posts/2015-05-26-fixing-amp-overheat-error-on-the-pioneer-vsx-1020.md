@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fixing AMP OVERHEAT error on the Pioneer VSX 1020"
+author: Brendan Shanks
 description: ""
 category: 
 tags: [repair,pioneer,vsx1020]
