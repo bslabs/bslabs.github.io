@@ -3,9 +3,11 @@ layout: post
 title: "OPENSTEP 4.2 on the Libretto 100ct"
 author: Brendan Shanks
 description: "Installing/running OPENSTEP 4.2 on the Toshiba Libretto"
-category: 
+category: retrocomputing
 tags: [libretto,openstep,next]
 fullview: true
+icon: "/assets/posts/openstep-on-the-libretto-100ct/login.jpg"
+excerpt: "Installing OPENSTEP 4.2 on the Toshiba Libretto subnotebook, to celebrate <a href=https://www.reddit.com/r/retrobattlestations/comments/43pkr8/february_is_next_month/>NeXT month at r/retrobattlestations</a>"
 ---
 
 <img src="/assets/posts/openstep-on-the-libretto-100ct/login.jpg" alt="Libretto at OPENSTEP login screen" style="width: 800px;"/>
