@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Replacing a SCSI enclosure power supply"
+author: Brendan Shanks
 description: ""
-category: 
+category: hardware
 tags: [repair,scsi,classicmac]
 fullview: true
+icon: "/assets/posts/replacing-a-scsi-enclosure-power-supply/front.jpg"
+excerpt: "An illustrated guide to replacing the power supply in an external SCSI CD-ROM drive enclosure."
 ---
-{% include JB/setup %}
 
 <img src="/assets/posts/replacing-a-scsi-enclosure-power-supply/front.jpg" alt="Front view of enclosure" style="width: 300px;"/>
 <img src="/assets/posts/replacing-a-scsi-enclosure-power-supply/rear.jpg" alt="Rear view of enclosure" style="width: 300px;"/>

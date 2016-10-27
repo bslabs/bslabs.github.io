@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Fixing AMP OVERHEAT error on the Pioneer VSX 1020"
+author: Brendan Shanks
 description: ""
-category: 
+category: hardware
 tags: [repair,pioneer,vsx1020]
 fullview: true
+icon: /assets/posts/fixing-amp-overheat-error-on-the-pioneer-vsx-1020/vsx1020.jpg
+excerpt: An illustrated walkthrough for fixing the "AMP OVERHEAT" error caused by a failed temperature sensor on Pioneer receivers, including the VSX-1020-K.
 ---
-{% include JB/setup %}
 
 *I originally posted this on the [AVSForum VSX-1020 thread](http://www.avsforum.com/forum/90-receivers-amps-processors/1245449-official-pioneer-vsx-1020-k-owner-s-thread-145.html#post23166665) on 4/4/2013*
 
@@ -37,7 +39,7 @@ Now that you know your posistor is bad and causing the AMP OVERHEAT error, there
 - or, cut the wires and solder a 306 ohm resistor to them (I didn't try this, but I assume it would work :D)
 
 Assuming you want to replace it:
-The posistor's part # is F320121021240-IL, and Pioneer [will sell you a new one] (http://parts.pioneerelectronics.com/part.asp?productNum=F320121021240-IL) for $19.25
+The posistor's part # is F320121021240-IL, and Pioneer [will sell you a new one](http://parts.pioneerelectronics.com/part.asp?productNum=F320121021240-IL) for $19.25
 
 Removing the posistor without removing the amp board is tricky, you will need a right angle phillips bit/driver and don't have much room to work with.
 There's a hole in the amp board so you can unscrew the posistor, but there's a bracket right behind the hole that makes it very hard to get a driver in! Luckily, by undoing 3 screws you can move the bracket back slightly.

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "SSA Detailed Calculator 2015.2"
-description: ""
-category: 
+author: Brendan Shanks
+description: "Release of SSA Detailed Calculator 2015.2"
+category: anypia
 tags: [anypia]
 fullview: true
 ---
-{% include JB/setup %}
 
 The SSA released [version 2015.2](http://www.ssa.gov/OACT/anypia/anypia.html) of the Detailed Calculator on September 4, with a PowerPC binary and source code.
 

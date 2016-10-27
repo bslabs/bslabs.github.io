@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Porting SSA Detailed Calculator to Xcode/Intel: Part 1"
+author: Brendan Shanks
 description: "Porting the Social Security Administration's Detailed Calculator from CodeWarrior to Xcode and Intel: Part 1"
-category: 
+category: anypia
 tags: [anypia,carbon,codewarrior,mac,osx]
 fullview: true
+excerpt: "Part 1 of my series detailing how I ported the SSA Detailed Calculator from PowerPC to Intel Macs"
 ---
-{% include JB/setup %}
 
 *For the first post in this series, see [Porting SSA Detailed Calculator to Xcode/Intel: Intro](/2015/07/18/porting-anypia-to-xcodeintel)*
 
