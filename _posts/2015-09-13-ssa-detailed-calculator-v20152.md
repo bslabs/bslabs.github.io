@@ -2,8 +2,8 @@
 layout: post
 title: "SSA Detailed Calculator 2015.2"
 author: Brendan Shanks
-description: ""
-category: 
+description: "Release of SSA Detailed Calculator 2015.2"
+category: anypia
 tags: [anypia]
 fullview: true
 ---
