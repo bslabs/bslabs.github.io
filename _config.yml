@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: bslabs
-subtitle: "Subtitle goes here"
+title: bs_labs
+subtitle: "adventures in computing, new and old. By Brendan Shanks"
 email: brendan@bslabs.net
 name: Brendan Shanks
 description: >
@@ -56,6 +56,9 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+  - cat: anypia
+    desc: "Social Security Administration Detailed Calculator"
 
 # Social icons and sharing options
 #
