@@ -23,7 +23,9 @@ layout: default
       {% if post.icon %}
       <img src="{{ post.icon }}" style="width: 250px;"/>
       {% endif %}
-      {% if post.excerpt %}
+      {% if post.fullview %}
+      <p>{{ post.content }}</p>
+      {% elsif post.excerpt %}
       <p>{{ post.excerpt }}</p>
       {% endif %}
     </section>
