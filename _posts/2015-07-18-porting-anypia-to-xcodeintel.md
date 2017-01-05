@@ -5,7 +5,6 @@ author: Brendan Shanks
 description: "Porting the Social Security Administration's Detailed Calculator from CodeWarrior to Xcode and Intel"
 category: anypia
 tags: [anypia,carbon,codewarrior,mac,osx]
-fullview: true
 icon: "/assets/posts/porting-anypia-to-xcodeintel/anypiaapp.jpg"
 excerpt: "Introduction to my port of the Social Security Administration's Detailed Calculator app from PowerPC to Intel Macs"
 ---

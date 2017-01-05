@@ -5,7 +5,6 @@ author: Brendan Shanks
 description: "Disabling MacOS PowerBook Password Security"
 category: retrocomputing
 tags: [mac,classicmac]
-fullview: true
 icon: "/assets/posts/disabling-powerbook-password-security/icon.png"
 excerpt: "It's a common problem: you boot up an old PowerBook, only to find that Password Security has been enabled on the hard drive! Read on to see out how to disable Password Security."
 ---

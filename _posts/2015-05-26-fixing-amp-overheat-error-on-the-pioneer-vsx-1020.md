@@ -5,7 +5,6 @@ author: Brendan Shanks
 description: ""
 category: hardware
 tags: [repair,pioneer,vsx1020]
-fullview: true
 icon: /assets/posts/fixing-amp-overheat-error-on-the-pioneer-vsx-1020/vsx1020.jpg
 excerpt: An illustrated walkthrough for fixing the "AMP OVERHEAT" error caused by a failed temperature sensor on Pioneer receivers, including the VSX-1020-K.
 ---

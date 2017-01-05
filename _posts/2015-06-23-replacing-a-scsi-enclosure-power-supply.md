@@ -5,7 +5,6 @@ author: Brendan Shanks
 description: ""
 category: hardware
 tags: [repair,scsi,classicmac]
-fullview: true
 icon: "/assets/posts/replacing-a-scsi-enclosure-power-supply/front.jpg"
 excerpt: "An illustrated guide to replacing the power supply in an external SCSI CD-ROM drive enclosure."
 ---
