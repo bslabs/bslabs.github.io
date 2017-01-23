@@ -80,4 +80,4 @@ Some solution will be necessary to ensure that these files still work correctly 
 
 With those files fixed, I was able to `git add` all the files and push to [my repository](https://github.com/bslabs/anypiamac).
 
-*Next time: Building a Mach-O binary with CodeWarrior*
+[*Next post: Building a Mach-O binary with CodeWarrior*](/2017/01/22/porting-ssa-detailed-calculator-to-xcodeintel-part-2)
